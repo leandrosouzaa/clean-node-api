@@ -1,0 +1,8 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "Node API developed during the course \"NodeJS, Typescript, TDD, Clean Architecture and SOLID\".",
+  "main": "index.js",
+  "author": "leandrosouzaa <leandror.dev@gmail.com>",
+  "license": "MIT"
+}
